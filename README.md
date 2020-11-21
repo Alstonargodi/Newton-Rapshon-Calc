@@ -1,4 +1,5 @@
-#Metode Newton-Raphson 
+#MetodeNewton-Raphson 
+
 adalah metode pencarian akar suatu fungsi f(x) dengan pendekatan satu titik, dimana fungsi f(x) mempunyai turunan. Metode ini menggunakan pendekatan satu titik sebagai titik awal. Semakin dekat titik awal yang kita pilih dengan akar sebenarnya, maka semakin cepat konvergen ke akarnya.
 # algortima
 1. Mulai
