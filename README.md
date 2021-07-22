@@ -30,6 +30,7 @@ b. Error Tolerable error
 c. Bottom Maximum Iteration
 5. Initialization of iteration counter step = 1
 6. Do it
+```
 If bottom(up) = 0
 Print "error"
 Stop
@@ -47,6 +48,7 @@ Print "Not Converging"
 Stop
 Ends if
    While abs f(x1)> e
+```
 7. Print root as x1
 8. Stop
 """
